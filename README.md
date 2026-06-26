@@ -1,6 +1,6 @@
 🚀 Day 11/30 – Text to Speech Web App
 
-Continuing my **30 Days JavaScript Challenge**, I built a **Text to Speech Web App** using **Vanilla JavaScript** and the **Web Speech API**.
+Continuing my 30 Days JavaScript Challenge, I built a **Text to Speech Web App** using **Vanilla JavaScript** and the **Web Speech API**.
 
 Tech Used:
 
